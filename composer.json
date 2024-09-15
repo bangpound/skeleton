@@ -12,6 +12,8 @@
         "symfony/flex": "^2"
     },
     "flex-require": {
+        "bref/bref": "*",
+        "bref/symfony-bridge": "*",
         "symfony/console": "*",
         "symfony/dotenv": "*",
         "symfony/framework-bundle": "*",
